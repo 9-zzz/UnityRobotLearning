@@ -29,7 +29,7 @@ public class AgentTrailMaker : MonoBehaviour
     void LateUpdate()
     {
         textWriterRef.GetComponent<FileWriteTest>().sw.WriteLine(transform.localPosition.ToString() + "," + transform.localRotation.ToString());
-        textWriterRef.GetComponent<FileWriteTest>().sw.Flush();
+        textWriterRef.GetComponent<FileWriteTest>().sw.Flush(); // So I don't have to .Close() and allows me to keep writing to file.
     }
 
     IEnumerator SpawnWhileMoving()
@@ -39,7 +39,8 @@ public class AgentTrailMaker : MonoBehaviour
             while (agent.velocity.magnitude > 0)
             {
                 //print("in loop");
-                Instantiate(flatCircleMesh, new Vector3(transform.position.x, ground.transform.position.y + 0.01f, transform.position.z), transform.rotation);
+                //Instantiate(flatCircleMesh, new Vector3(transform.position.x, ground.transform.position.y + 0.01f, transform.position.z), transform.rotation);
+                Instantiate(flatCircleMesh, transform.position - (Vector3.up), transform.rotation);
                 yield return new WaitForSeconds(waitTime);
 
             }
