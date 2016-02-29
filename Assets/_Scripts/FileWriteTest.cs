@@ -18,6 +18,7 @@ public class FileWriteTest : MonoBehaviour
         }
 
         sw = File.CreateText(fileName);
+
     }
 
     void Update()
