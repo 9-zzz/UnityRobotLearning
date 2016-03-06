@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "James Cameron",
+    "director": true,
+    "movie": [
+        {
+            "title": "Terminator",
+            "status": "plagiat",
+            "originalwriter":"Harlan Ellison"
+        },
+        {
+            "title": "Avatar",
+            "status": "plagiat",
+            "originalstory": "Pocahontas";
+        }
+    ]
+}
