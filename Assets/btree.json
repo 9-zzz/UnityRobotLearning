@@ -1,0 +1,26 @@
+{
+    "id": 1,
+    "smart_object": "door",
+    "behaviors": [
+        {
+            "behavior": "Push Door",
+            "likelihood": "0.2f",
+            "next": "Drive Through Door"
+        },
+        {
+            "behavior": "Pull Door",
+            "likelihood": "0.1f",
+            "next": "Drive Through Door"
+        },
+        {
+            "behavior": "Ask to Open Door",
+            "likelihood": "0.4f",
+            "next": "Drive Through Door"
+        },
+        {
+            "behavior": "Use Handicap Button",
+            "likelihood": "0.3f",
+            "next": "Drive Through Door"
+        }
+    ]
+}
