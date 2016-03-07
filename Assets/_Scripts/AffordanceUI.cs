@@ -65,7 +65,7 @@ public class AffordanceUI : MonoBehaviour
 
     void DestroyChildren(GameObject parent)
     {
-        for(int i = 0; i < parent.transform.childCount; i++)
+        for (int i = 0; i < parent.transform.childCount; i++)
         {
             Destroy(parent.transform.GetChild(i).gameObject);
 
