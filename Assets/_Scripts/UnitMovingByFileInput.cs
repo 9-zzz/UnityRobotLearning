@@ -10,14 +10,31 @@ public class UnitMovingByFileInput : MonoBehaviour
 
     public int rot = 0;
     public Vector3 moveVector;
-    public int xmove;
-    public int zmove;
+    public Vector3 trailVector = new Vector3(0.5f, 8.0f, 1.0f);
+    public float xmove;
+    public float zmove;
+
+    public GameObject trailCubePF;
 
     void Start()
     {
         lines = System.IO.File.ReadAllLines("input.txt");
-        StartCoroutine(WaitAndMove());
         print("Length of input lines array: " + lines.Length);
+
+        for (int i = 1; i < lines.Length; i++)
+        {
+            xmove = int.Parse(lines[i].Substring(0, 5));
+            zmove = int.Parse(lines[i].Substring(5, 5));
+            rot = int.Parse(lines[i].Substring(11, 3));
+
+            xmove += 0.5f;
+            
+            trailVector = new Vector3(xmove, 8, zmove);
+
+            Instantiate(trailCubePF, trailVector, Quaternion.Euler(0, rot, 0));
+        }
+
+        StartCoroutine(WaitAndMove());
     }
 
     void Update()
@@ -31,16 +48,19 @@ public class UnitMovingByFileInput : MonoBehaviour
         {
             yield return new WaitForSeconds(waitTime);
 
-            xmove = int.Parse(lines[i].Substring(0, 2));
-            zmove = int.Parse(lines[i].Substring(2, 2));
-            rot = int.Parse(lines[i].Substring(5, 3));
+            xmove = int.Parse(lines[i].Substring(0, 5));
+            zmove = int.Parse(lines[i].Substring(5, 5));
+            rot = int.Parse(lines[i].Substring(11, 3));
 
-            moveVector = new Vector3(xmove, 0, zmove);
-            transform.Translate(moveVector);             // Moves along local axes.
-            //transform.position += moveVector;
+            xmove += 0.5f;
+            zmove += 0.5f;
 
-            transform.Rotate(0, rot, 0);
+            moveVector = new Vector3(xmove, 8, zmove);
+            //transform.Translate(moveVector);             // Moves along local axes.
+            transform.position = moveVector;
+
+            //transform.Rotate(0, rot, 0);
+            transform.rotation = Quaternion.Euler(0, rot, 0);
         }
     }
-
 }
