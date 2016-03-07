@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - movingsphere
+  - 2
+  - 1
+  - trailCube
   layers:
   - Default
   - TransparentFX

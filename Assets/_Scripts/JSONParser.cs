@@ -6,10 +6,16 @@ using JSON;
 public class JSONParser : MonoBehaviour
 {
 
- 
 
-    [SerializeField]
-    private Brain brain = null;
+    public static JSONParser S;
+
+    //[SerializeField]
+    public Brain brain = null;
+
+    void Awake()
+    {
+        S = this;
+    }
 
     private void Start()
     {
