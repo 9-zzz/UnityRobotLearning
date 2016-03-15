@@ -6,15 +6,14 @@ public class UniWebExamples : MonoBehaviour
 
     void Start ()
     {
-		StartCoroutine(TestParseDotCom());
-        /*StartCoroutine(TestHTTP10());
-        StartCoroutine(UseHTTPS());
-        StartCoroutine (FetchAssetBundle());
-        StartCoroutine (FetchImage ());
+		//StartCoroutine(TestParseDotCom());
+        //StartCoroutine(TestHTTP10());
+        //StartCoroutine(UseHTTPS());
+        //StartCoroutine (FetchAssetBundle());
+        //StartCoroutine (FetchImage ());
         StartCoroutine (PostForm ());
-        StartCoroutine (TimeoutExample ());
-        WebSocketExample ();
-*/
+        //tartCoroutine (TimeoutExample ());
+        //WebSocketExample ();
   //      WebCacheExample();
     }
 
@@ -102,7 +101,9 @@ public class UniWebExamples : MonoBehaviour
         var form = new WWWForm ();
         form.AddField ("hello", "world");
         form.AddBinaryData ("file", new byte[] { 65,65,65,65 });
-        var r = new HTTP.Request ("http://google.com/", form);
+        //var r = new HTTP.Request ("http://google.com/", form);
+
+        var r = new HTTP.Request("http://localhost:8000/Desktop/test.txt", form);
         yield return r.Send ();
         if (r.exception != null) {
             Debug.Log (r.exception);
