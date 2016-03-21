@@ -1,0 +1,1089 @@
+fileFormatVersion: 2
+guid: 296f624aaa512174dab559f4434b6df0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Dizy_SH_HeadJ
+    100002: Dizy_SH_HeadTipJ
+    100004: Dizy_SH_JawJ
+    100006: Dizy_SH_JawTipJ
+    100008: Dizy_SH_lAnkleJ
+    100010: Dizy_SH_lBallJ
+    100012: Dizy_SH_lClavicleJ
+    100014: Dizy_SH_lElbowJ
+    100016: Dizy_SH_lEyeJ
+    100018: Dizy_SH_lFinger1J1
+    100020: Dizy_SH_lFinger1J2
+    100022: Dizy_SH_lFinger1J3
+    100024: Dizy_SH_lFinger1JTip
+    100026: Dizy_SH_lFinger2J1
+    100028: Dizy_SH_lFinger2J2
+    100030: Dizy_SH_lFinger2J3
+    100032: Dizy_SH_lFinger2JTip
+    100034: Dizy_SH_lHipJ
+    100036: Dizy_SH_lKneeJ
+    100038: Dizy_SH_lPalmJ
+    100040: Dizy_SH_lShoulderJ
+    100042: Dizy_SH_lThumbJ1
+    100044: Dizy_SH_lThumbJ2
+    100046: Dizy_SH_lThumbJ3
+    100048: Dizy_SH_lThumbJTip
+    100050: Dizy_SH_lToeJ
+    100052: Dizy_SH_lWristJ
+    100054: Dizy_SH_Neck01J
+    100056: Dizy_SH_rAnkleJ
+    100058: Dizy_SH_rBallJ
+    100060: Dizy_SH_rClavicleJ
+    100062: Dizy_SH_rElbowJ
+    100064: Dizy_SH_rEyeJ
+    100066: Dizy_SH_rFinger1J1
+    100068: Dizy_SH_rFinger1J2
+    100070: Dizy_SH_rFinger1J3
+    100072: Dizy_SH_rFinger1JTip
+    100074: Dizy_SH_rFinger2J1
+    100076: Dizy_SH_rFinger2J2
+    100078: Dizy_SH_rFinger2J3
+    100080: Dizy_SH_rFinger2JTip
+    100082: Dizy_SH_rHipJ
+    100084: Dizy_SH_rKneeJ
+    100086: Dizy_SH_ROOTJ_parentConstraint1_1
+    100088: Dizy_SH_rPalmJ
+    100090: Dizy_SH_rShoulderJ
+    100092: Dizy_SH_rThumbJ1
+    100094: Dizy_SH_rThumbJ2
+    100096: Dizy_SH_rThumbJ3
+    100098: Dizy_SH_rThumbJTip
+    100100: Dizy_SH_rToeJ
+    100102: Dizy_SH_rWristJ
+    100104: Dizy_SH_Spine01J
+    100106: Dizy_SH_Spine02J
+    100108: Dizy_SH_SpineTopJ
+    100110: joint1
+    100112: polySurface697
+    100114: //RootNode
+    400000: Dizy_SH_HeadJ
+    400002: Dizy_SH_HeadTipJ
+    400004: Dizy_SH_JawJ
+    400006: Dizy_SH_JawTipJ
+    400008: Dizy_SH_lAnkleJ
+    400010: Dizy_SH_lBallJ
+    400012: Dizy_SH_lClavicleJ
+    400014: Dizy_SH_lElbowJ
+    400016: Dizy_SH_lEyeJ
+    400018: Dizy_SH_lFinger1J1
+    400020: Dizy_SH_lFinger1J2
+    400022: Dizy_SH_lFinger1J3
+    400024: Dizy_SH_lFinger1JTip
+    400026: Dizy_SH_lFinger2J1
+    400028: Dizy_SH_lFinger2J2
+    400030: Dizy_SH_lFinger2J3
+    400032: Dizy_SH_lFinger2JTip
+    400034: Dizy_SH_lHipJ
+    400036: Dizy_SH_lKneeJ
+    400038: Dizy_SH_lPalmJ
+    400040: Dizy_SH_lShoulderJ
+    400042: Dizy_SH_lThumbJ1
+    400044: Dizy_SH_lThumbJ2
+    400046: Dizy_SH_lThumbJ3
+    400048: Dizy_SH_lThumbJTip
+    400050: Dizy_SH_lToeJ
+    400052: Dizy_SH_lWristJ
+    400054: Dizy_SH_Neck01J
+    400056: Dizy_SH_rAnkleJ
+    400058: Dizy_SH_rBallJ
+    400060: Dizy_SH_rClavicleJ
+    400062: Dizy_SH_rElbowJ
+    400064: Dizy_SH_rEyeJ
+    400066: Dizy_SH_rFinger1J1
+    400068: Dizy_SH_rFinger1J2
+    400070: Dizy_SH_rFinger1J3
+    400072: Dizy_SH_rFinger1JTip
+    400074: Dizy_SH_rFinger2J1
+    400076: Dizy_SH_rFinger2J2
+    400078: Dizy_SH_rFinger2J3
+    400080: Dizy_SH_rFinger2JTip
+    400082: Dizy_SH_rHipJ
+    400084: Dizy_SH_rKneeJ
+    400086: Dizy_SH_ROOTJ_parentConstraint1_1
+    400088: Dizy_SH_rPalmJ
+    400090: Dizy_SH_rShoulderJ
+    400092: Dizy_SH_rThumbJ1
+    400094: Dizy_SH_rThumbJ2
+    400096: Dizy_SH_rThumbJ3
+    400098: Dizy_SH_rThumbJTip
+    400100: Dizy_SH_rToeJ
+    400102: Dizy_SH_rWristJ
+    400104: Dizy_SH_Spine01J
+    400106: Dizy_SH_Spine02J
+    400108: Dizy_SH_SpineTopJ
+    400110: joint1
+    400112: polySurface697
+    400114: //RootNode
+    7400000: Reaching_RightHand
+    7400002: Reaching_LeftHand
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Reaching_RightHand
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_lHipJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_lHipJ/Dizy_SH_lKneeJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_lHipJ/Dizy_SH_lKneeJ/Dizy_SH_lAnkleJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_lHipJ/Dizy_SH_lKneeJ/Dizy_SH_lAnkleJ/Dizy_SH_lBallJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_lHipJ/Dizy_SH_lKneeJ/Dizy_SH_lAnkleJ/Dizy_SH_lBallJ/Dizy_SH_lToeJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_rHipJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_rHipJ/Dizy_SH_rKneeJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_rHipJ/Dizy_SH_rKneeJ/Dizy_SH_rAnkleJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_rHipJ/Dizy_SH_rKneeJ/Dizy_SH_rAnkleJ/Dizy_SH_rBallJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_rHipJ/Dizy_SH_rKneeJ/Dizy_SH_rAnkleJ/Dizy_SH_rBallJ/Dizy_SH_rToeJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger1J1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger1J1/Dizy_SH_lFinger1J2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger1J1/Dizy_SH_lFinger1J2/Dizy_SH_lFinger1J3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger1J1/Dizy_SH_lFinger1J2/Dizy_SH_lFinger1J3/Dizy_SH_lFinger1JTip
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger2J1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger2J1/Dizy_SH_lFinger2J2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger2J1/Dizy_SH_lFinger2J2/Dizy_SH_lFinger2J3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger2J1/Dizy_SH_lFinger2J2/Dizy_SH_lFinger2J3/Dizy_SH_lFinger2JTip
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lThumbJ1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lThumbJ1/Dizy_SH_lThumbJ2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lThumbJ1/Dizy_SH_lThumbJ2/Dizy_SH_lThumbJ3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lThumbJ1/Dizy_SH_lThumbJ2/Dizy_SH_lThumbJ3/Dizy_SH_lThumbJTip
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/Dizy_SH_HeadTipJ
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/Dizy_SH_JawJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/Dizy_SH_JawJ/Dizy_SH_JawTipJ
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/Dizy_SH_lEyeJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/Dizy_SH_rEyeJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/polySurface697
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger1J1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger1J1/Dizy_SH_rFinger1J2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger1J1/Dizy_SH_rFinger1J2/Dizy_SH_rFinger1J3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger1J1/Dizy_SH_rFinger1J2/Dizy_SH_rFinger1J3/Dizy_SH_rFinger1JTip
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger2J1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger2J1/Dizy_SH_rFinger2J2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger2J1/Dizy_SH_rFinger2J2/Dizy_SH_rFinger2J3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger2J1/Dizy_SH_rFinger2J2/Dizy_SH_rFinger2J3/Dizy_SH_rFinger2JTip
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rThumbJ1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rThumbJ1/Dizy_SH_rThumbJ2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rThumbJ1/Dizy_SH_rThumbJ2/Dizy_SH_rThumbJ3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rThumbJ1/Dizy_SH_rThumbJ2/Dizy_SH_rThumbJ3/Dizy_SH_rThumbJTip
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Reaching_LeftHand
+      takeName: Take 001
+      firstFrame: 37
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_lHipJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_lHipJ/Dizy_SH_lKneeJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_lHipJ/Dizy_SH_lKneeJ/Dizy_SH_lAnkleJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_lHipJ/Dizy_SH_lKneeJ/Dizy_SH_lAnkleJ/Dizy_SH_lBallJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_lHipJ/Dizy_SH_lKneeJ/Dizy_SH_lAnkleJ/Dizy_SH_lBallJ/Dizy_SH_lToeJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_rHipJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_rHipJ/Dizy_SH_rKneeJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_rHipJ/Dizy_SH_rKneeJ/Dizy_SH_rAnkleJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_rHipJ/Dizy_SH_rKneeJ/Dizy_SH_rAnkleJ/Dizy_SH_rBallJ
+        weight: 1
+      - path: joint1/Dizy_SH_ROOTJ_parentConstraint1_1/Dizy_SH_rHipJ/Dizy_SH_rKneeJ/Dizy_SH_rAnkleJ/Dizy_SH_rBallJ/Dizy_SH_rToeJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger1J1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger1J1/Dizy_SH_lFinger1J2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger1J1/Dizy_SH_lFinger1J2/Dizy_SH_lFinger1J3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger1J1/Dizy_SH_lFinger1J2/Dizy_SH_lFinger1J3/Dizy_SH_lFinger1JTip
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger2J1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger2J1/Dizy_SH_lFinger2J2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger2J1/Dizy_SH_lFinger2J2/Dizy_SH_lFinger2J3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lPalmJ/Dizy_SH_lFinger2J1/Dizy_SH_lFinger2J2/Dizy_SH_lFinger2J3/Dizy_SH_lFinger2JTip
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lThumbJ1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lThumbJ1/Dizy_SH_lThumbJ2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lThumbJ1/Dizy_SH_lThumbJ2/Dizy_SH_lThumbJ3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_lClavicleJ/Dizy_SH_lShoulderJ/Dizy_SH_lElbowJ/Dizy_SH_lWristJ/Dizy_SH_lThumbJ1/Dizy_SH_lThumbJ2/Dizy_SH_lThumbJ3/Dizy_SH_lThumbJTip
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/Dizy_SH_HeadTipJ
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/Dizy_SH_JawJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/Dizy_SH_JawJ/Dizy_SH_JawTipJ
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/Dizy_SH_lEyeJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/Dizy_SH_rEyeJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_Neck01J/Dizy_SH_HeadJ/polySurface697
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger1J1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger1J1/Dizy_SH_rFinger1J2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger1J1/Dizy_SH_rFinger1J2/Dizy_SH_rFinger1J3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger1J1/Dizy_SH_rFinger1J2/Dizy_SH_rFinger1J3/Dizy_SH_rFinger1JTip
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger2J1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger2J1/Dizy_SH_rFinger2J2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger2J1/Dizy_SH_rFinger2J2/Dizy_SH_rFinger2J3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rPalmJ/Dizy_SH_rFinger2J1/Dizy_SH_rFinger2J2/Dizy_SH_rFinger2J3/Dizy_SH_rFinger2JTip
+        weight: 0
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rThumbJ1
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rThumbJ1/Dizy_SH_rThumbJ2
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rThumbJ1/Dizy_SH_rThumbJ2/Dizy_SH_rThumbJ3
+        weight: 1
+      - path: joint1/Dizy_SH_Spine01J/Dizy_SH_Spine02J/Dizy_SH_SpineTopJ/Dizy_SH_rClavicleJ/Dizy_SH_rShoulderJ/Dizy_SH_rElbowJ/Dizy_SH_rWristJ/Dizy_SH_rThumbJ1/Dizy_SH_rThumbJ2/Dizy_SH_rThumbJ3/Dizy_SH_rThumbJTip
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: joint1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lHipJ
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rHipJ
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lKneeJ
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rKneeJ
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lAnkleJ
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rAnkleJ
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_Spine01J
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_Spine02J
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_Neck01J
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_HeadJ
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lClavicleJ
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rClavicleJ
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lShoulderJ
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rShoulderJ
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lElbowJ
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rElbowJ
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lWristJ
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rWristJ
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lToeJ
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rToeJ
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lEyeJ
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rEyeJ
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_JawJ
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lThumbJ1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lThumbJ2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lThumbJ3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lFinger1J1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lFinger1J2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lFinger1J3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lFinger2J1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lFinger2J2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_lFinger2J3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rThumbJ1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rThumbJ2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rThumbJ3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rFinger1J1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rFinger1J2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rFinger1J3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rFinger2J1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rFinger2J2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dizy_SH_rFinger2J3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Reaching(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: joint1
+      position: {x: 8.5366788e-05, y: .15924032, z: -.0040866565}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_ROOTJ_parentConstraint1_1
+      position: {x: -8.5366788e-05, y: .00999333989, z: -.00111897779}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lHipJ
+      position: {x: -.0134764146, y: -.013038706, z: .00521302642}
+      rotation: {x: .51117909, y: .488315195, z: .509592831, w: .490468502}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lKneeJ
+      position: {x: -.068507053, y: .000551055418, z: 2.6924306e-07}
+      rotation: {x: 2.9216013e-05, y: 5.4749858e-09, z: -6.98316035e-06, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lAnkleJ
+      position: {x: -.0647734851, y: -.000551055185, z: -2.3733385e-07}
+      rotation: {x: -.625559926, y: .331737518, z: -.329311728, w: .624642968}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lBallJ
+      position: {x: -.018625658, y: -2.220446e-18, z: 8.881784e-18}
+      rotation: {x: .704800248, y: .0565967783, z: -.0566028059, w: .704875588}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lToeJ
+      position: {x: -.0159462579, y: -2.84461345e-14, z: -2.76843878e-11}
+      rotation: {x: -.167997494, y: -.686860144, z: -.167997494, w: .686860144}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rHipJ
+      position: {x: .0134764146, y: -.013038706, z: .00521302642}
+      rotation: {x: -.490463495, y: .509579837, z: -.488307416, w: .511204302}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rKneeJ
+      position: {x: .068507053, y: -.000551055418, z: -2.66634714e-07}
+      rotation: {x: 2.91998622e-05, y: 1.49244741e-08, z: -3.28249916e-05, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rAnkleJ
+      position: {x: .0647734851, y: .000551055185, z: 2.34747219e-07}
+      rotation: {x: -.000718355936, y: .00175157399, z: -.467415184, w: .884035885}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rBallJ
+      position: {x: .018625658, y: -5.03510536e-13, z: 4.75889085e-11}
+      rotation: {x: -2.7876516e-16, y: 8.10940576e-18, z: -.0800442174, w: .996791303}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rToeJ
+      position: {x: .0159462579, y: -4.31079597e-13, z: 3.06719615e-11}
+      rotation: {x: .167997494, y: .686860144, z: -.167997494, w: .686860144}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_Spine01J
+      position: {x: -8.5366788e-05, y: .0101523846, z: -.00168156042}
+      rotation: {x: .00725470996, y: -0, z: -0, w: .999973714}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_Spine02J
+      position: {x: -0, y: .0188390445, z: -.000343918684}
+      rotation: {x: -.000277627638, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_SpineTopJ
+      position: {x: 1.22071313e-18, y: .0348658189, z: .0034387405}
+      rotation: {x: -.499798506, y: .500201404, z: -.499798506, w: .500201404}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lClavicleJ
+      position: {x: -.00284056389, y: 4.19299395e-05, z: -.0124999993}
+      rotation: {x: -.54640907, y: .554534197, z: -.440519422, w: -.447070003}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lShoulderJ
+      position: {x: -.015807271, y: 3.5527136e-17, z: 5.68989295e-18}
+      rotation: {x: -.0476322249, y: .104633301, z: -.0318297036, w: .992859483}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lElbowJ
+      position: {x: -.0391744748, y: 7.1054272e-17, z: 2.99760195e-17}
+      rotation: {x: .0438738838, y: .000248311961, z: 1.09049106e-05, w: .999037087}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lWristJ
+      position: {x: -.0423927307, y: -2.48689959e-16, z: 3.17967867e-15}
+      rotation: {x: .00011161952, y: .0032431474, z: .0366115607, w: .999324322}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lPalmJ
+      position: {x: -.00699999975, y: -1.06581408e-16, z: -9.99200679e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lFinger1J1
+      position: {x: -.0136376768, y: -.00140246726, z: .00226941053}
+      rotation: {x: .000475431414, y: .00235213572, z: .0771342069, w: .99701786}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lFinger1J2
+      position: {x: -.00754118385, y: 3.5527136e-17, z: -5.76473467e-05}
+      rotation: {x: 0, y: 0, z: 7.61052021e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lFinger1J3
+      position: {x: -.00609999988, y: -3.5527136e-17, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lFinger1JTip
+      position: {x: -.00609999988, y: -3.5527136e-17, z: -1.110223e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lFinger2J1
+      position: {x: -.0130035551, y: -.00140246726, z: -.00501648849}
+      rotation: {x: .000951107591, y: .00470563583, z: .0770950168, w: .997012198}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lFinger2J2
+      position: {x: -.00754118385, y: 7.1054272e-17, z: -.000115294693}
+      rotation: {x: 0, y: 0, z: 7.61052021e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lFinger2J3
+      position: {x: -.00609999988, y: 7.1054272e-17, z: 2.220446e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lFinger2JTip
+      position: {x: -.00609999988, y: -7.1054272e-17, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lThumbJ1
+      position: {x: -.00444275513, y: -.00384348142, z: .00718094734}
+      rotation: {x: .691118062, y: .135815814, z: -.0979764834, w: .703072131}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lThumbJ2
+      position: {x: -.00642355625, y: .00279347296, z: .000762164709}
+      rotation: {x: -.01216699, y: .0550902598, z: -.18027775, w: .981996417}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lThumbJ3
+      position: {x: -.00749999983, y: -2.6645352e-17, z: -1.42108544e-16}
+      rotation: {x: 1.07301869e-16, y: 2.85001738e-17, z: 4.24023261e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lThumbJTip
+      position: {x: -.00749999983, y: 6.66133775e-17, z: 0}
+      rotation: {x: -0, y: -.707106829, z: 0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_Neck01J
+      position: {x: -.0104468549, y: -.00194953696, z: 5.66066659e-18}
+      rotation: {x: .526214898, y: -.472332418, z: .526214898, w: .472332418}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_HeadJ
+      position: {x: 1.31127462e-18, y: .0105959792, z: .000814048166}
+      rotation: {x: -.481145412, y: .518168986, z: -.481145412, w: .518168986}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_HeadTipJ
+      position: {x: -.0252529066, y: 5.15143469e-16, z: 3.59406667e-18}
+      rotation: {x: .44850409, y: -.546666384, z: .44850409, w: .546666384}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_JawJ
+      position: {x: -.00865140278, y: -.00130090513, z: 3.60237612e-18}
+      rotation: {x: .476749867, y: -.522216022, z: .476749867, w: .522216022}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_JawTipJ
+      position: {x: 9.56791377e-18, y: -.0132338218, z: .0113085341}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_lEyeJ
+      position: {x: -.0147398077, y: -.0152029842, z: -.0126070781}
+      rotation: {x: .448504061, y: -.546666384, z: .448504061, w: .546666384}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rEyeJ
+      position: {x: -.0147398077, y: -.0152029842, z: .0126070781}
+      rotation: {x: .448504061, y: -.546666384, z: .448504061, w: .546666384}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface697
+      position: {x: .23516956, y: -.0445112027, z: -2.61311286e-17}
+      rotation: {x: .44850409, y: -.546666384, z: .44850409, w: .546666384}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rClavicleJ
+      position: {x: -.00284056389, y: 4.19299395e-05, z: .0124999993}
+      rotation: {x: .554534197, y: .54640907, z: .447070003, w: -.440519422}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rShoulderJ
+      position: {x: .015807271, y: 0, z: 2.08166805e-18}
+      rotation: {x: -.0476322249, y: .104633301, z: -.0318297036, w: .992859483}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rElbowJ
+      position: {x: .0391744748, y: -3.5527136e-17, z: -7.77156121e-18}
+      rotation: {x: .0438738838, y: .000248311961, z: 1.09049106e-05, w: .999037087}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rWristJ
+      position: {x: .0423927307, y: 4.26325632e-16, z: -3.0553336e-15}
+      rotation: {x: .000111636145, y: .00324314833, z: .0366115607, w: .999324322}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rPalmJ
+      position: {x: .00699999975, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rFinger1J1
+      position: {x: .0136376768, y: .00140246726, z: -.00226941053}
+      rotation: {x: 1, y: 0, z: 0, w: -6.12323426e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rFinger1J2
+      position: {x: .00754118385, y: 3.5527136e-17, z: -5.76473467e-05}
+      rotation: {x: 0, y: -0, z: -7.61052021e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rFinger1J3
+      position: {x: .00609999988, y: 0, z: -4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rFinger1JTip
+      position: {x: .00609999988, y: -7.1054272e-17, z: 1.110223e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rFinger2J1
+      position: {x: .0130035551, y: .00140246726, z: .00501648849}
+      rotation: {x: 1, y: 0, z: 0, w: -6.12323426e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rFinger2J2
+      position: {x: .00754118385, y: 3.5527136e-17, z: -.000115294693}
+      rotation: {x: 0, y: -0, z: -7.61052021e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rFinger2J3
+      position: {x: .00609999988, y: 0, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rFinger2JTip
+      position: {x: .00609999988, y: -7.1054272e-17, z: -6.661338e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rThumbJ1
+      position: {x: .00444275513, y: .00384348142, z: -.00718094734}
+      rotation: {x: .363286227, y: -.0114558013, z: .928763509, w: -.0727353096}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rThumbJ2
+      position: {x: -.00704602385, y: 7.1054272e-17, z: 4.44089183e-17}
+      rotation: {x: 3.29464833e-09, y: 3.50272944e-09, z: 1.1835618e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rThumbJ3
+      position: {x: -.00749999983, y: 1.42108544e-16, z: -1.3322676e-17}
+      rotation: {x: -6.01216676e-09, y: -8.51176729e-09, z: -3.53840135e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dizy_SH_rThumbJTip
+      position: {x: -.00749999983, y: 0, z: 0}
+      rotation: {x: .570197463, y: .418180496, z: -.570197463, w: -.418180496}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e8914d097ece7cc48a83d5fccd4098c0,
+    type: 3}
+  animationType: 3
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: aea5ea0794e9d2a4dbf424f04ccbd958
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: LeftToeBase
+    100002: LeftFoot
+    100004: RightLeg
+    100006: RightFoot
+    100008: RightUpLeg
+    100010: //RootNode
+    100012: RightToeBase
+    100014: LeftToe_End
+    100016: RightToe_End
+    100018: RightForeArm
+    100020: Head
+    100022: LeftHandIndex3
+    100024: RightHandIndex2
+    100026: RightHandIndex3
+    100028: RightHand
+    100030: LeftArm
+    100032: HeadTop_End
+    100034: RightHandIndex4
+    100036: Spine2
+    100038: RightShoulder
+    100040: LeftHand
+    100042: LeftLeg
+    100044: LeftUpLeg
+    100046: LeftForeArm
+    100048: LeftHandIndex2
+    100050: RightArm
+    100052: LeftShoulder
+    100054: Neck
+    100056: RightHandIndex1
+    100058: LeftHandIndex4
+    100060: LeftHandIndex1
+    100062: Spine1
+    100064: Spine
+    100066: Hips
+    400000: LeftToeBase
+    400002: LeftFoot
+    400004: RightLeg
+    400006: RightFoot
+    400008: RightUpLeg
+    400010: //RootNode
+    400012: RightToeBase
+    400014: LeftToe_End
+    400016: RightToe_End
+    400018: RightForeArm
+    400020: Head
+    400022: LeftHandIndex3
+    400024: RightHandIndex2
+    400026: RightHandIndex3
+    400028: RightHand
+    400030: LeftArm
+    400032: HeadTop_End
+    400034: RightHandIndex4
+    400036: Spine2
+    400038: RightShoulder
+    400040: LeftHand
+    400042: LeftLeg
+    400044: LeftUpLeg
+    400046: LeftForeArm
+    400048: LeftHandIndex2
+    400050: RightArm
+    400052: LeftShoulder
+    400054: Neck
+    400056: RightHandIndex1
+    400058: LeftHandIndex4
+    400060: LeftHandIndex1
+    400062: Spine1
+    400064: Spine
+    400066: Hips
+    7400000: mixamo.com
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
