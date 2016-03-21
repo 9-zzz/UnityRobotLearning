@@ -6,6 +6,4 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/LeapMotion/Scenes/Leap_Hands_Demo_Desktop.unity
-  - enabled: 1
-    path: Assets/_Scenes/roboarmtest.unity
+    path: Assets/r.unity
